@@ -17,6 +17,24 @@
 - `mcp_03_mcp_client.ipynb`
 - `mcp_04_build_mcp_server.ipynb`
 - `mcp_05_llm_with_mcp.ipynb`
+- `mcp_06_function_calling_deep_dive.ipynb`
+- `mcp_07_shell_and_cli_tools.ipynb`
+- `mcp_08_tool_use_patterns.ipynb`
+- `mcp_09_memory_skills_sop.ipynb`
+- `mcp_10_coding_agents_codex_claude_code.ipynb`
+- `mcp_11_planning_verification_and_reflection.ipynb`
+- `mcp_12_safe_file_agent.ipynb`
+- `mcp_13_shell_coding_agent.ipynb`
+- `mcp_14_agent_evaluation.ipynb`
+- `mcp_15_agent_safety_and_permissions.ipynb`
+- `mcp_16_memory_lifecycle.ipynb`
+- `mcp_17_multi_agent_workflows.ipynb`
+- `mcp_18_observability_and_tracing.ipynb`
+- `mcp_19_cost_latency_and_routing.ipynb`
+- `mcp_20_human_in_the_loop.ipynb`
+- `mcp_21_agent_product_design.ipynb`
+- `mcp_22_failure_modes_and_debugging.ipynb`
+- `mcp_23_agent_innovation_map.ipynb`
 
 配套代码：
 
